@@ -11,7 +11,6 @@ Accurately grading the maturity of multiple fruit types in an uncontrolled orcha
 
 The dataset used in this study will be made publicly available in a repository upon acceptance of the manuscript.
 
-* **Baidu Drive**: [**[link](https://pan.baidu.com/s/1z3g1tz_BbYiX2OEwgv_VCg?pwd=8f5v)**]
 * **Google Drive**: [**[link](https://drive.google.com/file/d/1CrA3OIVRFXS1CjehAUZOI1yjgHVXjn-Y/view?usp=sharing)**]
 
 ### Composition
